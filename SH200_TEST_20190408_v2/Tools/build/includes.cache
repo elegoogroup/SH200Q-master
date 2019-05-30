@@ -1,0 +1,47 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\eightanaloginputs"
+  },
+  {
+    "Sourcefile": "D:\\Faynman\\Desktop\\SH200_TEST_20190408_v2\\Tools\\build\\sketch\\test.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Faynman\\Desktop\\SH200_TEST_20190408_v2\\Tools\\build\\sketch\\I2Cdev.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "D:\\Faynman\\Desktop\\SH200_TEST_20190408_v2\\Tools\\build\\sketch\\I2Cdev.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Faynman\\Desktop\\SH200_TEST_20190408_v2\\Tools\\build\\sketch\\KalmanFilter.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Faynman\\Desktop\\SH200_TEST_20190408_v2\\Tools\\build\\sketch\\sh200q.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": ""
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\eightanaloginputs"
+  },
+  {
+    "Sourcefile": "D:\\Faynman\\Desktop\\Self-Balancing_Car_20190404_SH200Q\\Tools\\build\\sketch\\Self-Balancing_Car.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Faynman\\Desktop\\Self-Balancing_Car_20190404_SH200Q\\Tools\\build\\sketch\\Adafruit_NeoPixel.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Faynman\\Desktop\\Self-Balancing_Car_20190404_SH200Q\\Tools\\build\\sketch\\I2Cdev.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "D:\\Faynman\\Desktop\\Self-Balancing_Car_20190404_SH200Q\\Tools\\build\\sketch\\I2Cdev.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Faynman\\Desktop\\Self-Balancing_Car_20190404_SH200Q\\Tools\\build\\sketch\\KalmanFilter.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Faynman\\Desktop\\Self-Balancing_Car_20190404_SH200Q\\Tools\\build\\sketch\\MsTimer2.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Faynman\\Desktop\\Self-Balancing_Car_20190404_SH200Q\\Tools\\build\\sketch\\sh200q.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": ""
+  }
+]
